@@ -1,0 +1,7 @@
+data/
+snippets/
+elpa/
+auto-save-list/
+.lsp-session-v1
+.cask/
+projectile-bookmarks.eld
